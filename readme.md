@@ -11,7 +11,7 @@ timer will start counting from that point
 5. The 'Stop' button is to stop the timer and the 'Reset' is to start again
 
 
-<h1> Project Plan: </h>
+<h1> Project Plan: </h1>
 1. Write the user stories for the timer
 2. Create repository on GitHub
 3. Add some scenarios to start from
