@@ -19,3 +19,20 @@ Project Plan:
 4. Write simple test cases to implement them in coding
 5. Write javascript code to implement the timer
 6. Build html and css page to the timer
+7. Implement test cases in coding in parallel with implement the code
+
+
+User Stories:
+1. as a user I want to see the timer changes
+2. as a user I need to pause the timer
+3. as a user I need to un pause the timer
+4. as a user I need to stop the timer
+5. as a user I need to re-start the timer
+
+Test cases:
+1. settime is exists?
+2. setminutes is exists ?
+3. add zero is exists ?
+4. stop is exists ?
+5. set minute should return
+6. initialTime should be number
