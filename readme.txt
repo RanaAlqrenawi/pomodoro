@@ -30,9 +30,8 @@ User Stories:
 5. as a user I need to re-start the timer
 
 Test cases:
-1. settime is exists?
-2. setminutes is exists ?
-3. add zero is exists ?
-4. stop is exists ?
-5. set minute should return
-6. initialTime should be number
+1. Method PTimer() exist ?
+2. Function PTimer() should return Object .
+4. function startTime() should return the time as a string
+5. variable time change every time interval (1 second)
+
