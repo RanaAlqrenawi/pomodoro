@@ -1,4 +1,4 @@
-The program idea:
+<h1> The program idea: </h1>
 
 When you start working on a project, you will press the timer to alarm you once it's done.
 
