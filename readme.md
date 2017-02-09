@@ -21,7 +21,7 @@ timer will start counting from that point
 7. Implement test cases in coding in parallel with implement the code
 
 
-<h> User Stories: </h1>
+<h1> User Stories: </h1>
 1. as a user I want to see the timer changes
 2. as a user I need to pause the timer
 3. as a user I need to un pause the timer
